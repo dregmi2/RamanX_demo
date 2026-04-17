@@ -1,3 +1,3 @@
 Placeholder repo for demo video.
 
-Please click on (download) RamanX Demo Video.mp4 for the demonstration.
+Please click on RamanX Demo Video.mp4 >> then raw >> to download the demonstration video. 
